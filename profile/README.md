@@ -21,13 +21,13 @@
 ⚡ Fun fact: ...
 -->
 
-✨ The **Open Science Community Utrecht (OSCU)** aims at passionatily promoting principles and practices of **✨ OpenScience ✨**.
+✨ The **Open Science Community Utrecht (OSCU)** aims at passionatily promoting principles and practices of **✨OpenScience✨**.
 
-🔭 **OSCU** is a bottom-up learning community of researchers and students to learn more about **✨ OpenScience ✨**.
+🔭 **OSCU** is a bottom-up learning community of researchers and students to learn more about **✨OpenScience✨**.
 
-👯 We are actively looking for enthousiasts willing and able to promote **✨ OpenScience ✨** at the [Utrecht Science Park](https://www.utrechtsciencepark.nl/nl) and working at one of its institutes.
+👯 We are actively looking for enthousiasts willing and able to promote **✨OpenScience✨** at the [Utrecht Science Park](https://www.utrechtsciencepark.nl/nl) and working at one of its institutes.
 
-💬 Ask me anything about **✨ OpenScience ✨**.
+💬 Ask me anything about **✨OpenScience✨**.
 
 📫 Follow me [@OpenSciUtrecht](https://www.twitter.com/OpenSciUtrecht).
 
